@@ -10,7 +10,7 @@ pip install os
 pip install termcolor
 ```
 
-### 1. public_ip.py
+### 2. public_ip.py
 The script displays your public ip address.
 ```s
 python public_ip.py
