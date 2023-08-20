@@ -16,3 +16,13 @@ The script displays your public ip address.
 ```s
 pip install requests
 ```
+
+### 3. os_Details.py
+The script gathers system information and network interface details using the platform, socket, and netifaces libraries. It displays:
+
+OS details like Python version, distribution, OS name, architecture, platform, kernel, and more.
+Interface details including interface name, IPv4 address, and MAC address for each network interface, distinguishing between Windows and other systems.
+###
+```s
+pip3 install distro netifaces
+```
