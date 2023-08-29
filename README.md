@@ -26,3 +26,10 @@ Interface details including interface name, IPv4 address, and MAC address for ea
 ```s
 pip3 install distro netifaces
 ```
+
+### 4. ipGeolocation.py
+The script displays the geolocation of the provided public ip address.
+#### Necessary modules
+```s
+pip install requests
+```
