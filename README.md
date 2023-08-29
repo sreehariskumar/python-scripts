@@ -34,4 +34,4 @@ The script displays the geolocation of the provided public ip address.
 pip install requests
 ```
 #### Requirements
-You will require an ipgeolocation API key to run the above script
+You will require an ipgeolocation API key to run the above script.
