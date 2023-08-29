@@ -10,7 +10,7 @@ def ip2country(ip, api_key):
 
 if __name__ == "__main__":
     user_ip = input("Enter the IP address to geolocate: ")
-    api_key = "641374b665fc4280aa2d667ef00bd031"  # Hardcoded API key
+    api_key = "<your_API_key_here>"  # Hardcoded API key
     country = ip2country(user_ip, api_key)
     print(f"{user_ip} -> {country}.")
 
