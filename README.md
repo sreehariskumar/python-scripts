@@ -33,8 +33,13 @@ The script displays the geolocation of the provided public ip address.
 ```s
 pip install requests
 ```
-#### Requirements
-You will require an ipgeolocation API key to run the above script.
+
+### 5. ipLookUp.py
+The script displays the geolocation of the provided public ip address. The script utilises a `free` API to get the geolocation.
+#### Necessary modules
+```s
+pip install requests
+```
 
 ### 5. website_ip_addr.py
 This script displays the public ip address of the provided website.
