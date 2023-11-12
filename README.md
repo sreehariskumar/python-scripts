@@ -41,7 +41,7 @@ The script displays the geolocation of the provided public ip address. The scrip
 pip install requests
 ```
 
-### 5. website_ip_addr.py
+### 6. website_ip_addr.py
 This script displays the public ip address of the provided website.
 #### Necessary modules
 ```s
