@@ -47,3 +47,9 @@ This script displays the public ip address of the provided website.
 ```s
 pip install socket
 ```
+
+### 7. add_hash.sh
+This shell script will prompt you for the start and end line numbers. If you press `Enter` without entering any value, it will add `"#"` to every line. If you enter values for the start and end lines, it will add "#" only to the specified range of lines.
+```s
+./add_hash.sh fileName
+```
